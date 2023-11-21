@@ -1,0 +1,6 @@
+gTTS==2.3.1
+openai
+streamlit==1.20.0
+streamlit-audiorecorder==0.0.2
+streamlit_modal
+
